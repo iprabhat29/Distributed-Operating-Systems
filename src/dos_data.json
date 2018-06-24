@@ -1,0 +1,33 @@
+{
+    "Clients": [], 
+    "Team": {
+        "Rome": {
+            "Stone Skating": {
+                "Score": "20"
+            }, 
+            "Gold": 16508, 
+            "Stone Throwing": {
+                "Score": "200"
+            }, 
+            "Stone Curling": {
+                "Score": "4"
+            }, 
+            "Silver": 8, 
+            "Bronze": 7
+        }, 
+        "Gual": {
+            "Stone Skating": {
+                "Score": "10"
+            }, 
+            "Gold": 16515, 
+            "Stone Throwing": {
+                "Score": "100"
+            }, 
+            "Stone Curling": {
+                "Score": "60"
+            }, 
+            "Silver": 2, 
+            "Bronze": 8
+        }
+    }
+}
